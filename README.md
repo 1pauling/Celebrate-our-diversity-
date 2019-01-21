@@ -1,20 +1,13 @@
 # Celebrate-our-diversity-
 This educational program helps users understand the diversity at Connecticut College and learn how to say “hello” in a few languages that are represented on the campus using three modes of learning; writing, listening and quizzes. There are many interactive buttons, video and audio elements throughout the program that users can interact with to aid in their learning process. 
 
-Background: 
+Please read the project documention to further understand the project background and description. 
 
-The ultimate goal for this program is to convince our Connecticut College community that we have a rich diversity and we should really consider embracing and celebrating, not just on a surface level in promotional brochures but also more frequently in daily practice. Some of the pedagogical approaches I have incorporated in this program to encourage practicing languages are inspired by methods we use in teaching young children as well as my own experience learning languages. Those learning methods include visual(spatial), verbal(linguistic) and physical(kinestatic). 
+User Manual: There are 6 main frames in this program
+1. Cover Page
+2. Menu Page
+3. Learning I Page (Writing/Drawing different hellos) 
+4. Learning II Page (Listening to different hellos)
+5. Quiz I Page (How many languages are represented?)
+6. Quiz II Page (What are the languages represented?)
 
-When I learn a new word, especially when it is in characters and pronunciation that I am not familiar with, it is very helpful to have some visuals association to a new word that I am hearing.
-
-As a visual learner, I always had to write the new word down on a piece of paper or it will not retain in my memory. This is the rationale for including a drawing/writing component in the program, similar to what we see in children’s learning to write books where one can see as well as practice writing new words. The program allows user to learn and write down the new words. Since it is digital, user can practice writing as often as he/she wishes. 
-
-One of the main reasons we should learn how to say hellos in different languages is so that we verbally greet others on campus. Having a recording of the different hellos that users can play back easily will allow users to learn the correct pronunciation of those words and be confident enough to say it out loud. Based on my observation of students learning new languages at Conn, there seems to be a lack of confidence in practicing the language, further limiting their use of the language to only within a classroom context. Hence, I included a listening component where user can pick a language and hear the word being pronounced to them. The more they hear it, the faster that they will able to learn the word. To build of the idea of having visual components when learning, I also included an animation of the mouth shape when a word is being said.
-
-During my preliminary research, I tried looking for ways in which I can animate lip syncing easily as we see being used in most cartoon animations today. While that is for the purpose of making an animation look realistic, the idea of lip syncing animation can still be applied in this context. However, my research has proved futile because lip syncing is in fact not as easy as it looks, especially in case like this where the mouth shape should be highly accurate. To have a model of something as close to what I had imagined, I included a mouth shape that animates each time a language card is selected. User is able to hear the word and see the mouth move at the same time. This is to imitate how one learns to pronounce a word out loud. 
-
-I had considered different ways to present the findings from the research I conducted throughout the semester at Conn about our language diversity, however, I finally decided on using quizzes to go along the lines of this program being something highly interactive and engaging. Researcher Jeffrey D. Karpicke of Purdue University conducted a survey on college students and found that taking quizzes has helped students retain the information they learn. A model of a mini quiz was implemented in this program to allow users to be questioned, to think and to provide an answer. This way, users will perhaps retain the information longer than if I had chosen to simply presented the information of my research in plain text form. 
-
-The approaches I have used to create this interactive program to engage my users does in some ways mirror playful and childish methods which may not be suitable for my targeted audience. However, I want to believe that these learning methods, as I have personally experience, are universal and still applicable even to help young adults and adults learn new languages. To work around this, I made use of an elegant and simple design that would appeal more to my targeted audience. The colors I used in this program  are mild pastel colors to bring out happy and positive emotions. 
-
-Languages have the power to divide people because people cannot communicate with one another effectively. But the fact that we have so many different languages represented on our Connecticut College campus by students, faculty, staff and administrations only indicate the rich knowledge that we have and it would be a waste if we don’t tap on that diversity. 
